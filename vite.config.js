@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vue_dynamic-list-of-posts/',
+  base: '/list-of-posts-vue/',
   plugins: [
     vue(),
   ],
